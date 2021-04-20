@@ -29,7 +29,7 @@
             <asp:TextBox ID="tb_Des" runat="server" Visible="False" Width="400px"></asp:TextBox>
             <br/>
             <asp:Button ID="btn_Sub" runat="server" Text="送出" /> <br/>
-            <asp:Label ID="lb_Msg" runat="server" Text="Label" Visible="False"></asp:Label>
+            <asp:Label ID="lb_Msg" runat="server" Text=" " Visible="False"></asp:Label>
         </div>
     </form>
 </body>
