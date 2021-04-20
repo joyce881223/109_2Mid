@@ -14,9 +14,7 @@
             <asp:TextBox ID="tb_Acc" runat="server" Height="15px" Width="200px"></asp:TextBox>
             <br/>
             <asp:Label ID="Label2" runat="server" Text="密碼" Font-Size="X-Large"></asp:Label> 
-            
             <asp:TextBox ID="tb_Pass" runat="server" Height="15px" TextMode="Password" Width="200px"></asp:TextBox>
-            
             <br/>
             <asp:Label ID="Label3" runat="server" Text="興趣(單選)" Font-Size="X-Large"></asp:Label> 
             <asp:RadioButton ID="rb1" runat="server" Text="看書" />
